@@ -42,6 +42,7 @@ public class EmpleadoED_53362813F {
         salarioFinal=(double)Math.round(salarioFinal * 100d) / 100d;
         return salarioFinal;
     }
+	
     // Este método no lo comentaremos con JavaDoc
 	// Esta no se comenta por peticion del profesor
     public static void main(String[] args) {
