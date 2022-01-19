@@ -43,6 +43,7 @@ public class EmpleadoED_53362813F {
         return salarioFinal;
     }
     // Este método no lo comentaremos con JavaDoc
+	// Esta no se comenta por peticion del profesor
     public static void main(String[] args) {
         EmpleadoED_53362813F emp = new EmpleadoED_53362813F("Carlos Casas","53362813F");
         int horasExtra = 2;
